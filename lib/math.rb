@@ -22,7 +22,8 @@ end
 
 def modulo(num1, num2)
 
-def sqrt
+def sqrt(num)
+  
   
 
 end
