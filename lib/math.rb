@@ -22,9 +22,7 @@ end
 
 def modulo(num1, num2)
 
-def sqrt(num)
-  # return the squart root of num
-end
+
   
 
 
